@@ -97,6 +97,9 @@ O histórico e o perfil do produtor ficam no `localStorage` do navegador; a prov
 | `lib/attestations.ts` | Persistência local do perfil e do histórico de atestados |
 | `components/CertificadoModal.tsx` | Certificado de conformidade com hash e impressão |
 | `components/HistoricoManejos.tsx` | Lista de atestados notarizados |
+| `components/notarization-stepper.tsx` | Stepper visual das etapas de notarização na Solana |
+| `components/solana-provider.tsx` | Providers da carteira Solana (Wallet Standard) na Devnet |
+| `components/wallet-button.tsx` | Botão de conexão da carteira, carregado só no cliente |
 
 ## Stack
 
